@@ -1,0 +1,149 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "title": "Europa",
+      "description": "O continente mais antigo.",
+      "body": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countries": 50,
+      "languegues": 60,
+      "citys": [
+        {
+          "city": "Londres",
+          "country": "Reino unido",
+          "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+          "flagCode": "GB"
+        },
+        {
+          "city": "Paris",
+          "country": "França",
+          "image": "https://media.istockphoto.com/photos/arc-de-triomphe-from-the-sky-paris-picture-id1324189687?s=612x612",
+          "flagCode": "FR"
+        },
+        {
+          "city": "Roma",
+          "country": "Italia",
+          "image": "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+          "flagCode": "IT"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1596300504839-0e8f35d3562c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Americas",
+      "description": "Novo mundo.",
+      "body": "América, em francês: Amérique, em guarani: Amérika, em inglês: America, em neerlandês: Amerika, em quíchua: Amirika) é o continente localizado no hemisfério ocidental e que se estende, no sentido norte-sul, desde o oceano Ártico até o cabo Horn, ao longo de cerca de 15 mil quilômetros.",
+      "countries": 35,
+      "languegues": 10,
+      "citys": [
+        {
+          "city": "Buenos Aires",
+          "country": "Argentina",
+          "image": "https://media.istockphoto.com/photos/old-cabildo-town-hall-of-buenos-aires-picture-id1324335093?b=1&k=20&m=1324335093&s=170667a&w=0&h=30gOj1sh99ApOD7oD6_jynKMZkU4-_iDj6hXHBENfeI=",
+          "flagCode": "AR"
+        },
+        {
+          "city": "Rio de janeiro",
+          "country": "Brasil",
+          "image": "https://images.unsplash.com/photo-1583275479278-7bc72a16c2ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "flagCode": "BR"
+        },
+        {
+          "city": "Orlando",
+          "country": "Estados unidos",
+          "image": "https://images.unsplash.com/photo-1590144662036-33bf0ebd2c7f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "flagCode": "US"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1568805746970-0bbae56ab18b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Asia",
+      "description": "O maior continante",
+      "body": "A Ásia é o maior dos continentes, tanto em área como em população.",
+      "countries": 50,
+      "languegues": 93,
+      "citys": [
+        {
+          "city": "Pequim",
+          "country": "China",
+          "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+          "flagCode": "CN"
+        },
+        {
+          "city": "Dubai",
+          "country": "Emirados Árabes Unidos",
+          "image": "https://images.unsplash.com/photo-1523816572-a1a23d1a67b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+          "flagCode": "AE"
+        },
+        {
+          "city": "Istambu",
+          "country": "Turquia",
+          "image": "https://images.unsplash.com/photo-1503342669531-2557c49cde04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+          "flagCode": "TR"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1464817739973-0128fe77aaa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 4,
+      "title": "África",
+      "description": "O mais facinante",
+      "body": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta.",
+      "countries": 54,
+      "languegues": 50,
+      "citys": [
+        {
+          "city": "Cidade do cabo",
+          "country": "Africa do Sul",
+          "image": "https://images.unsplash.com/photo-1607973177100-f07ae6cce0a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "flagCode": "ZA"
+        },
+        {
+          "city": "Ruanda",
+          "country": "Namíbia",
+          "image": "https://images.unsplash.com/photo-1611418612603-4d06f0252750?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+          "flagCode": "NA"
+        },
+        {
+          "city": "Cairo",
+          "country": "Egito",
+          "image": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+          "flagCode": "EG"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Oceania",
+      "description": "A aventura esta aqui",
+      "body": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico (Polinésia, Melanésia e Micronésia). O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville.",
+      "countries": 16,
+      "languegues": 58,
+      "citys": [
+        {
+          "city": "Sydney",
+          "country": "Austrália",
+          "image": "https://images.unsplash.com/photo-1524820197278-540916411e20?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=895&q=80",
+          "flagCode": "HM"
+        },
+        {
+          "city": "Milford Sound",
+          "country": "Nova Zelândia",
+          "image": "https://images.unsplash.com/photo-1591640040362-f55d95a6b2bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+          "flagCode": "NZ"
+        },
+        {
+          "city": "Ilha de Páscoa ",
+          "country": "Chile",
+          "image": "https://images.unsplash.com/photo-1494783435443-c15feee0a80a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+          "flagCode": "CL"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1623982143585-39bd7ec29663?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    }
+  ]
+}
